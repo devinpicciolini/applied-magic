@@ -1,0 +1,11 @@
+{
+  "name": "applied-magic",
+  "owner": { "name": "Devin Picciolini" },
+  "plugins": [
+    {
+      "name": "applied-magic",
+      "source": "./",
+      "description": "Zero-trust engineering standards as readable Markdown plus skills behind one front door, /applied-magic."
+    }
+  ]
+}

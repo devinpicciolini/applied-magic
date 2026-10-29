@@ -1,0 +1,6 @@
+{
+  "name": "applied-magic",
+  "description": "Zero-trust engineering standards as skills: harden any project or server, start new projects right, review diffs, check attack classes, cut code to the least that works, gate shipping, and turn incidents into checks.",
+  "version": "1.0.0",
+  "author": { "name": "Devin Picciolini" }
+}
